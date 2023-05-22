@@ -17,4 +17,4 @@ cd client
 npx create-react-app .
 
 remove code in client/App.js
-7:09min https://www.youtube.com/watch?v=uT-xxeFkgO8
+24:58min https://www.youtube.com/watch?v=uT-xxeFkgO8
